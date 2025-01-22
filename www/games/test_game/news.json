@@ -1,10 +1,10 @@
 [
   {
     "title": "01/01 Тестовая новость 1, тестовый текст, тестовый тост.",
-    "link": "https://example.com/1"
+    "link": "https://news.example.net/1"
   },
     {
     "title": "01/02 Тестовая новость 2, тестовый текст, тестовый тост.",
-    "link": "https://example.com/2"
+    "link": "https://news.example.net/2"
   }
 ]
